@@ -45,6 +45,6 @@ A touch sensor circuit is an electrical component that detects the presence or p
 
 
 
-# Result
+
 
 
